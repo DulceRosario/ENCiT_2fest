@@ -19,12 +19,28 @@ Es un conjunto de librerías y con formato de datos autodescriptivo e independie
 
 * **Facilidad de acceso y análisis:** Los archivos NETCDF pueden ser fácilmente leídos y escritos por una variedad de programas y lenguajes de programación, lo que permite a los científicos acceder y analizar los datos de manera rápida y eficiente. Además, herramientas como ArcGIS ofrecen funcionalidades para trabajar con estos archivos, facilitando la visualización y el análisis de los datos.
 
-* **Soporte para metadatos y atributos:** Los archivos NETCDF incluyen atributos que proporcionan información adicional sobre los datos, como metadatos y descripciones de las variables. Esto es especialmente útil en las ciencias de la tierra, donde el contexto y la interpretación de los datos son cruciales para entender los fenómenos naturales
+* **Soporte para metadatos y atributos:** Los archivos NETCDF incluyen atributos que proporcionan información adicional sobre los datos, como metadatos y descripciones de las variables. Esto es especialmente útil en las ciencias de la tierra, donde el contexto y la interpretación de los datos son cruciales para entender los fenómenos naturales.
+
+
+## Herramientas de análisis y visualización 
+
+Los archivos NetCDF pueden ser fácilmente leídos y escritos por una gran variedad de programas y lenguajes de programación que facilitan su manipulación y análisis.
+
+* Panoply 
+* ncview
+* NCO 
+* C,Fortran,Java,R,Python,Matlab,Julia 
+* Geoserver 
 
 ## Casos de uso 
+
+* Modelo meteorológico WRF 
+* Modelos de circulación oceánica HYCOM y ADCIRC
+* Datos satelitales GOES16 
+* Modelo dispersión y deposición de ceniza volcánica FALL3D
 
 
 ## Datos de contacto
 
-* Dulce Herrera Moro  dulce.herrera@artmosfera.unam.mx
+* Dulce Herrera Moro dulce.herrera@artmosfera.unam.mx
 * Pedro Damián Cruz Santiago  dulce.herrera@artmosfera.unam.mx
